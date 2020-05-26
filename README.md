@@ -11,5 +11,5 @@ Bilingual Buddy pairs a translator to those that need translations through a web
 Bilingual Buddy is built using JavaScript/jQuery, HTML, CSS, and Firebase. Using the American Airlines API, we were able to get airline travel information for layover flights.
 
 ## How to run the web app
-Go to https://raspgary.github.io/Bilingual-Buddy/ or simply clone the repo and open the main.html file in a browser
+Go to https://raspgary.github.io/Bilingual-Buddy/ or simply clone the repo and open the index.html file in a browser
 (preferably Chrome). A customer frequent flyer number you can test would be martha123. All the translators' frequent flyer numbers are their names followed by 123. For example, Norman's frequent flyer number would be norman123. You can see the translators on the booking page once you enter martha123 to book a translator for Martha. To get the special font, follow the instructions in the install-a-new-font.txt. The .otf files are in the fonts directory.
