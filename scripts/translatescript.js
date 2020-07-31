@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     var config = {
-        "apiKey" :  process.env.APIKEY,
+        "apiKey" :  "hello",
         "authDomain": "americanairlines-f737a.firebaseapp.com",
         "databaseURL": "https://americanairlines-f737a.firebaseio.com/",
         "storageBucket": "americanairlines-f737a.appspot.com"
