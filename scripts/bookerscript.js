@@ -3,7 +3,7 @@ $('.slide').hiSlide();
 $(document).ready(function () {
 
     var config = {
-    "apiKey" : process.env.APIKEY,
+    "apiKey" : "AIzaSyCm6oWzvhDOi3szra2UQja7wm19K1lsb",
     "authDomain": "americanairlines-f737a.firebaseapp.com",
     "databaseURL": "https://americanairlines-f737a.firebaseio.com/",
     "storageBucket": "americanairlines-f737a.appspot.com"
